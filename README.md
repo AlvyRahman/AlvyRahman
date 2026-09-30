@@ -52,6 +52,9 @@
 
 <div align="center">
 
+<a href="https://github.com/AlvyRahman/Learning-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvyRahman&repo=Learning-Management-System&theme=tokyonight&hide_border=true" alt="Learning-Management-System repo card"/>
+</a>
 <a href="https://github.com/AlvyRahman/mern-note-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlvyRahman&repo=mern-note-app&theme=tokyonight&hide_border=true" alt="mern-note-app repo card"/>
 </a>
