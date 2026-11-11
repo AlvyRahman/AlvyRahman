@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+with+the+MERN+stack&font=Fira+Code&center=true&width=580&height=45&duration=3000&pause=1000&color=38BDF8&vCenter=true&size=22&repeat=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+with+the+MERN+stack&font=Fira+Code&center=true&width=580&height=45&duration=3000&pause=1000&color=0369A1&vCenter=true&size=22&repeat=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+systems.Fixing+bugs.Shipping+features&font=Fira+Code&center=true&width=580&height=45&duration=3000&pause=1000&color=0369A1&vCenter=true&size=22&repeat=true" />
     <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+the+MERN+stack&font=Fira+Code&center=true&width=580&height=45&duration=3000&pause=1000&color=0369A1&vCenter=true&size=22&repeat=true" alt="Typing SVG" />
   </picture>
 </a>
